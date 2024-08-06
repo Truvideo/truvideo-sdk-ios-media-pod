@@ -14,55 +14,47 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		QpO5rPYOZx7ANH8UMt+luVLnHJY=
-		</data>
-		<key>Modules/TruvideoSdkMedia.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
-		<data>
-		hkmKp/qoQ/GhVVS0WO9QyskVF+c=
-		</data>
-		<key>Modules/TruvideoSdkMedia.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
-		<data>
-		nuEgHz2pUlQd/3khFdyUChJ1d/o=
+		mmC1AxfbeRn3FCxqKsWJVa3+BCg=
 		</data>
 		<key>Modules/TruvideoSdkMedia.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		NeNb1x9a5PgK1jbDr58UQLLDIa4=
+		ZFSwAxXvAfz8j+MNFH4vSSv5R1w=
 		</data>
 		<key>Modules/TruvideoSdkMedia.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		AVmj43woy9ttlziKrdx08i++ISo=
+		8VjD0L9FBcX/YsbU0fVHuGjZDJY=
 		</data>
 		<key>Modules/TruvideoSdkMedia.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		+4v2VbD63JXahRo69UK7JC4dH0M=
+		DpR6qxiE+MhUtsE8//xYeJt/uXs=
 		</data>
 		<key>Modules/TruvideoSdkMedia.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		AVmj43woy9ttlziKrdx08i++ISo=
+		8VjD0L9FBcX/YsbU0fVHuGjZDJY=
 		</data>
 		<key>Modules/TruvideoSdkMedia.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		zB5XJPjiCl341crYoqOe8oUyB48=
+		IY+0Pz/1GN8nSoJ3yACXX3WOYgY=
 		</data>
 		<key>Modules/TruvideoSdkMedia.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		NeNb1x9a5PgK1jbDr58UQLLDIa4=
+		ZFSwAxXvAfz8j+MNFH4vSSv5R1w=
 		</data>
 		<key>Modules/TruvideoSdkMedia.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		w6RIAktM3l+xympuMSqiL1gS9pQ=
+		b0Q70WIKn57csSeSBd/rdogzHN8=
 		</data>
 		<key>Modules/TruvideoSdkMedia.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		NyTeMzKwmA6Mj8jxgs23iECKVuQ=
+		PGPjaq3dujxl8sj50ucoeBFMKJg=
 		</data>
 		<key>Modules/TruvideoSdkMedia.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		w6RIAktM3l+xympuMSqiL1gS9pQ=
+		b0Q70WIKn57csSeSBd/rdogzHN8=
 		</data>
 		<key>Modules/TruvideoSdkMedia.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		rhrUZxy/kMmm9BLSfNN9+xM+RqA=
+		UV6YfVSWI9GsunM4xfKNKV1knmE=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -70,11 +62,11 @@
 		</data>
 		<key>UploadsStore.momd/UploadsStore 2.mom</key>
 		<data>
-		tMqI0fzLNXt3J5JahRyKY5zRlbs=
+		QBjCWKugxWjYkzNQaJRhmXbvyLo=
 		</data>
 		<key>UploadsStore.momd/UploadsStore 3.mom</key>
 		<data>
-		9RvhsMs3sUSmAI0o6+c9RogeQj4=
+		A33djJ2Dj+IOb/jWOkHdyD+1cBo=
 		</data>
 		<key>UploadsStore.momd/UploadsStore 3.omo</key>
 		<data>
@@ -82,7 +74,7 @@
 		</data>
 		<key>UploadsStore.momd/UploadsStore.mom</key>
 		<data>
-		V7PQQMAPcGul3I1l6gJWE68DR44=
+		zHg//d7R3pI4VGBCP2tmG6GlbEU=
 		</data>
 		<key>UploadsStore.momd/VersionInfo.plist</key>
 		<data>
@@ -109,88 +101,74 @@
 			HiE/pRKvzw+/Yjc5LPioYv0a/Z5eOwlLu7466k/1VTI=
 			</data>
 		</dict>
-		<key>Modules/TruvideoSdkMedia.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			z5k6C7JwHMTdzBpanw7BkOie8vr+4Bx0HW8hcozVYrw=
-			</data>
-		</dict>
-		<key>Modules/TruvideoSdkMedia.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			tLIdfeidQGt2PjSbgg0k3rxDboO6n51GU5RxNkm1UW0=
-			</data>
-		</dict>
 		<key>Modules/TruvideoSdkMedia.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			DK0F1W71KaiU079xoyIA+Xz1I9eoNlyKV/6O96uwfi0=
+			uq/md4gI8ZZHTD0m3WjyeaPl94mHCANMH7WHATA7aBI=
 			</data>
 		</dict>
 		<key>Modules/TruvideoSdkMedia.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			TjIiUc4Qlo+77biE/LpwRiCz4xboxFxvZtdYNk8gJIM=
+			6WJ8JK48idzoW7rBPu+u1g1gf8sFh3gxvvhAVQHm83g=
 			</data>
 		</dict>
 		<key>Modules/TruvideoSdkMedia.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			/Pkr0206CoeMdou2ROotTmohSMz5aMhyZ10z/Ye0j+8=
+			weVJm7snBUX5IIGylAwLSHk28scagL39V6I0ghmM/Wg=
 			</data>
 		</dict>
 		<key>Modules/TruvideoSdkMedia.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			TjIiUc4Qlo+77biE/LpwRiCz4xboxFxvZtdYNk8gJIM=
+			6WJ8JK48idzoW7rBPu+u1g1gf8sFh3gxvvhAVQHm83g=
 			</data>
 		</dict>
 		<key>Modules/TruvideoSdkMedia.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			l0IA4uTb2VWw7TdSryzLLYEe47t9S3Vbane2745lofY=
+			LYg90zvrLmYv3fxcDM99oLEDBT25SyW9WqQEQIw/5hE=
 			</data>
 		</dict>
 		<key>Modules/TruvideoSdkMedia.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			DK0F1W71KaiU079xoyIA+Xz1I9eoNlyKV/6O96uwfi0=
+			uq/md4gI8ZZHTD0m3WjyeaPl94mHCANMH7WHATA7aBI=
 			</data>
 		</dict>
 		<key>Modules/TruvideoSdkMedia.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			wlidzwXyVt7xfXXgMIgL4z2vxWYuHZGFBWV6bxPUcfI=
+			ccgd57cXdktV3g9P8YybJqZnfbT8+gNcw6PcYDooMmc=
 			</data>
 		</dict>
 		<key>Modules/TruvideoSdkMedia.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			NySOL4zURlmT+PF/4qQ2jFR/h2+Lfqbn9T0lYvWGGYI=
+			ZH6JQVXz6SPjMi5RVbGXnAriasoJPNmo+vfLZddVlug=
 			</data>
 		</dict>
 		<key>Modules/TruvideoSdkMedia.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			wlidzwXyVt7xfXXgMIgL4z2vxWYuHZGFBWV6bxPUcfI=
+			ccgd57cXdktV3g9P8YybJqZnfbT8+gNcw6PcYDooMmc=
 			</data>
 		</dict>
 		<key>Modules/TruvideoSdkMedia.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			g/KWzjUU4cD+24lgElX08POXPFoVV25VYagsRBBQO1U=
+			3lZQLkr7N0CDGqKJwkkbARCQOBAc+Fi/8U2B6ynWPNM=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -204,14 +182,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			i+i5NEH9/02bMMxEYKpOIIpNsCZziqGTeLE/mN+arF4=
+			KxE8qAUnTJI+Woyt1eYxVQH8c3PkZ+ZNxdUoxdUivco=
 			</data>
 		</dict>
 		<key>UploadsStore.momd/UploadsStore 3.mom</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Q0lWs3XUIHzPIcchBHVPbr5kE7rhM/QmxwF5Msh5TD4=
+			t5k1GnlbR1QMxBnRWPyP743u7pUfhjGmYBT+jTy8EW4=
 			</data>
 		</dict>
 		<key>UploadsStore.momd/UploadsStore 3.omo</key>
@@ -225,7 +203,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			y0oHwuaFVecGQFZ2/RfzF5RmBtLqslCgUme0xdqHkzQ=
+			cblE0AGRUbDvqq5Pe0Zx+BGLr9fakIuCFVQHQKuzeio=
 			</data>
 		</dict>
 		<key>UploadsStore.momd/VersionInfo.plist</key>
