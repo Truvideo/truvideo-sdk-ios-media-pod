@@ -6445,8 +6445,8 @@
       "filePath": "\/Users\/vagrant\/git\/CI.swift",
       "kind": "StringLiteral",
       "offset": 151,
-      "length": 6,
-      "value": "\"BETA\""
+      "length": 5,
+      "value": "\"DEV\""
     },
     {
       "filePath": "\/Users\/vagrant\/git\/TruvideoSdkMedia\/Logger\/TruvideoSdkMediaLogger.swift",
