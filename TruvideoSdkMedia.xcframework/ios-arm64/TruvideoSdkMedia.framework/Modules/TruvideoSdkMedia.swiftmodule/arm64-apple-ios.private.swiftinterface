@@ -41,7 +41,7 @@ public let TruvideoSdkMedia: any TruvideoSdkMedia.TruvideoSdkMediaInterface
 public protocol TruvideoSdkMediaInterface {
   typealias TruvideoSdkMediaFileUploadStreams = Combine.AnyPublisher<[TruvideoSdkMedia.TruvideoSdkMediaUploadRequest], Swift.Never>
   typealias TruvideoSdkMediaFileUploadStream = Combine.AnyPublisher<TruvideoSdkMedia.TruvideoSdkMediaUploadRequest, Swift.Never>
-  func FileUploadRequestBuilder(fileURL: Foundation.URL, metadata: TruvideoSdkMedia.TruvideoSdkMediaMetadata, tags: TruvideoSdkMedia.TruvideoSdkMediaTags) -> TruvideoSdkMedia.FileUploadRequestBuilder
+  func FileUploadRequestBuilder(fileURL: Foundation.URL, metadata: TruvideoSdkMedia.TruvideoSdkMediaMetadata, tags: TruvideoSdkMedia.TruvideoSdkMediaTags, sendToOEM: Swift.Bool?) -> TruvideoSdkMedia.FileUploadRequestBuilder
   #if compiler(>=5.3) && $AsyncAwait
   func getById(_ id: Swift.String) async throws -> TruvideoSdkMedia.TruvideoSDKMedia?
   #endif
@@ -54,7 +54,7 @@ public protocol TruvideoSdkMediaInterface {
   func streamFileUploadRequest(withId id: Swift.String) throws -> Self.TruvideoSdkMediaFileUploadStream
 }
 extension TruvideoSdkMedia.TruvideoSdkMediaInterface {
-  public func FileUploadRequestBuilder(fileURL: Foundation.URL, metadata: TruvideoSdkMedia.TruvideoSdkMediaMetadata = TruvideoSdkMediaMetadata.builder().build(), tags: TruvideoSdkMedia.TruvideoSdkMediaTags = TruvideoSdkMediaTags.builder().build()) -> TruvideoSdkMedia.FileUploadRequestBuilder
+  public func FileUploadRequestBuilder(fileURL: Foundation.URL, metadata: TruvideoSdkMedia.TruvideoSdkMediaMetadata = TruvideoSdkMediaMetadata.builder().build(), tags: TruvideoSdkMedia.TruvideoSdkMediaTags = TruvideoSdkMediaTags.builder().build(), sendToOEM: Swift.Bool? = nil) -> TruvideoSdkMedia.FileUploadRequestBuilder
   public func getFileUploadRequests(byStatus status: TruvideoSdkMedia.TruvideoSdkMediaUploadRequest.Status? = nil) throws -> [TruvideoSdkMedia.TruvideoSdkMediaUploadRequest]
   public func streamFileUploadRequests(byStatus status: TruvideoSdkMedia.TruvideoSdkMediaUploadRequest.Status? = nil) -> Self.TruvideoSdkMediaFileUploadStreams
   #if compiler(>=5.3) && $AsyncAwait
@@ -118,12 +118,14 @@ public struct TruvideoSdkMediaFileUploadProgress {
   final public let status: TruvideoSdkMedia.TruvideoSdkMediaUploadRequest.Status
   final public let createdAt: Foundation.Date?
   final public let updatedAt: Foundation.Date?
+  final public var sendToOEM: Swift.Bool?
   final public func upload() throws
   final public func retry() throws
   final public func pause() throws
   final public func resume() throws
   final public func delete() throws
   final public func cancel() throws
+  final public func updateSendOEM(_ sendOEM: Swift.Bool)
   @objc deinit
 }
 public typealias TruvideoSdkMediaFileUploadResult = TruvideoSdkMedia.TruvideoSDKMedia
